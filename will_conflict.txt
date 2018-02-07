@@ -1,0 +1,2 @@
+hello, this change is in branch devel
+it should conflict with changes made in master
